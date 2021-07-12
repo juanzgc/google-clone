@@ -1,12 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Google Clone
+
+Created by Juan Zapata Gomez <juanzgc@bu.edu>
+
+Google Clone using NextJS and TailwindCSS.
+
+Includes:
+
+- Pagination
+- Server Side Rendering
+- Google Search APIs
+- TailwindCSS (Mobile compatible)
+- Vercel Deployment
 
 ## Getting Started
+
+Install all dependencies:
+
+```bash
+yarn
+```
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
